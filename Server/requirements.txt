@@ -1,0 +1,9 @@
+fastapi==0.95.1
+uvicorn==0.22.0
+moviepy==1.0.3
+speechrecognition==3.8.1
+requests==2.31.0
+pydantic==1.10.7
+google-cloud-texttospeech
+google-cloud-speech
+google-cloud-translate
